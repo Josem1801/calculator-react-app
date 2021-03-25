@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - git clone https://github.com/Josem1801/calculator-react-app.git
 
 ### `Install the dependencies`
-- yarn install
+- npm i yarn
  
 
 ## Available Scripts
