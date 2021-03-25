@@ -6,10 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 git clone https://github.com/Josem1801/calculator-react-app.git
 
 ### `Install the dependencies`
- npm install
+### yarn install
  
-#Run the following command to run the server:
-yarn dev
+
 ## Available Scripts
 
 In the project directory, you can run:
